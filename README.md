@@ -1,5 +1,5 @@
-## 欢迎来到我的小屋
-[Wiki](https://github.com/shuiyibuyi/shuiyibuyi.github.io/wiki)               
+## 欢迎来到我的小屋  [Wiki](https://github.com/shuiyibuyi/shuiyibuyi.github.io/wiki)         
+      
 
 - 2016年夏，因为开智学堂得知github，了解一些基本知识          
 
