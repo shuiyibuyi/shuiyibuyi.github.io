@@ -1,34 +1,18 @@
-## [欢迎来到我的小屋](https://github.com/shuiyibuyi/shuiyibuyi.github.io/wiki)         
-      
+# 镜面荆芥的个人小屋 
 
-### 2017年      
-- 2017.12.18   
-  - 修改wiki框架，添加性格测试报告
-  - 了解知识点：如何使用github客户端
-     >本地修改
-      >- 本地修改    
-      >- 在github客户端commit   
-      >- 在github客户端push     
-      >- 网页端更新     
-    >网页端修改
-      >- 网页端修改    
-      >- 在github客户端Fetch     
-      >- 在github客户端pull    
-  
+这是[我的个人博客](https://shuiyibuyi.github.io/)，欢迎常来常往。
+
+
 - 2017.10  萌生将githu搭建成个人博客的想法        
-- 2017年初  希望借助github想要学习更多技术方面的知识          
-
-     
-
-	 
-### 2016年               
+- 2017年初  希望借助github想要学习更多技术方面的知识                       
 - 2016年夏，因为开智学堂得知github，了解一些基本知识    
 
 
+## 说明
+博客模板采用[Start Bootstrap - Clean Blog](https://startbootstrap.com/template-overviews/clean-blog/)
+[代码克隆地址](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll.git)
 
 
+## Copyright and License
 
-
-
-
-
+Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/blob/gh-pages/LICENSE) license.
